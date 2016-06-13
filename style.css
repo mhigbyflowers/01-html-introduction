@@ -25,13 +25,13 @@ body {
   list-style: none;
 }
 
-.nav-list__item {
+.nav-list-item {
   margin: 1rem 0.5rem;
   text-transform: uppercase;
 
 }
 
-.nav-list__item--brand {
+.nav-list-item-brand {
   flex: 1;
 
   font-weight: bold;
@@ -55,11 +55,11 @@ body {
   text-shadow: 1px 1px 2px #2a2a2a;
 }
 
-.hero__container {
+.hero-container {
   max-width: 60rem;
 }
 
-.hero__title {
+.hero-title {
   font-size: 5rem;
   margin: 2rem 0;
 
@@ -72,13 +72,13 @@ body {
   overflow: hidden;
 }
 
-.divider__hero {
+.divider-hero {
   border-bottom-color: #00a5bb;
   border-bottom-width: 7px;
   width: 10em;
 }
 
-.hero__text {
+.hero-text {
   margin: 2rem 0;
   font-size: 1.2rem;
 }
@@ -126,7 +126,7 @@ body {
   color: #2f2f2f;
 }
 
-.row__column {
+.row-column {
   width: calc(100% / 3 - 1rem);
   margin: 0 1rem;
 }
