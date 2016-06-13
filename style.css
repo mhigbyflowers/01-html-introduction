@@ -70,6 +70,7 @@ body {
   max-width: 60rem;
   margin: auto;
   overflow: hidden;
+
 }
 
 .divider-hero {
@@ -87,6 +88,7 @@ body {
   padding: 1rem 2rem;
   background: #00525d;
   color: #f1f1f1;
+
 }
 
 .divider {
@@ -94,7 +96,7 @@ body {
   border-bottom-width: 0.5rem;
   border-bottom-style: solid;
   border-bottom-color: #00a5bb;
-  wide: 10rem;
+  width: 10rem;
   margin: auto;
 }
 
