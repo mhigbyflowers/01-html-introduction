@@ -72,8 +72,10 @@ body {
   overflow: hidden;
 }
 
-.divider--hero {
+.divider__hero {
   border-bottom-color: #00a5bb;
+  border-bottom-width: 7px;
+  width: 10em;
 }
 
 .hero__text {
