@@ -28,6 +28,7 @@ body {
 .nav-list__item {
   margin: 1rem 0.5rem;
   text-transform: uppercase;
+
 }
 
 .nav-list__item--brand {
