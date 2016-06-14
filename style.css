@@ -103,11 +103,12 @@ body {
 }
 
 #bg-photo {
-  background: url('http://i.imgur.com/TdMB82e.gif') no-repeat center center;
+  background: url('img/cat.png') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  opacity: .5;p
 }
 
 .bg-pop .divider {
