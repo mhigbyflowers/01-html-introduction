@@ -45,7 +45,7 @@ body {
   height: 100vh;
   text-align: center;
 
-  background: url('http://www.developerdev.com/images/placeholders/1920x1200-3.jpg') no-repeat center center fixed;
+  background: url('http://i.imgur.com/TJkfTui.png') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -74,9 +74,10 @@ body {
 }
 
 .hero-divider {
-  border-bottom-color: #00a5bb;
+  border-bottom-color: #403d3d;
   border-bottom-width: 7px;
   width: 10em;
+  margin-bottom: 10px;
 }
 
 .hero-text {
@@ -101,7 +102,7 @@ body {
 }
 
 #bg-photo {
-  background: url('http://i.imgur.com/PNpGUvq.jpg?1') no-repeat center center;
+  background: url('http://i.imgur.com/TdMB82e.gif') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
