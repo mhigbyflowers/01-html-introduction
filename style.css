@@ -51,6 +51,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  background-repeat: none;
 
   color: white;
   text-shadow: 1px 1px 2px #2a2a2a;
@@ -128,7 +129,8 @@ body {
 
 .bg-standard {
   padding: 1rem 2rem;
-  color: #2f2f2f;
+  color: #3a8ef1;
+    text-shadow: 1px 1px 2px #2a2a2a;
 }
 
 .row-column {
