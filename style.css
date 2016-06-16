@@ -10,7 +10,7 @@ body {
   margin: 0 0 2rem;
   font-family: Raleway, sans-serif;
   color: #272727;
-  background: url(img/ditherscape.png);
+  background: url(http://i.imgur.com/9Sle8G6.png);
 }
 
 .top-nav {
@@ -46,7 +46,7 @@ body {
   height: 100vh;
   text-align: center;
 
-  background: url('img/canvasglitch.png') no-repeat center center fixed;
+  background: url('http://i.imgur.com/OEb2Kxw.png') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -103,7 +103,7 @@ body {
 }
 
 #bg-photo {
-  background: url('img/cat.png') no-repeat center center;
+  background: url('http://i.imgur.com/P0xKA5t.png') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
